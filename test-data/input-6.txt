@@ -1,0 +1,3 @@
+# Both stores contain torpedoes and never fail
+GT4500,2,0,2,0
+TORPEDO,ALL
